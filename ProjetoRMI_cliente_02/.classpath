@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/luciano/Documentos/Fatec 2017, a new hope/sistemas distribuidos/RMI/jars/Java-WebSocket-1.4.0-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/home/luciano/Documentos/Fatec 2017, a new hope/sistemas distribuidos/RMI/jars/jar_files.zip"/>
+	<classpathentry kind="lib" path="/home/luciano/Documentos/Fatec 2017, a new hope/sistemas distribuidos/RMI/jars/jar_files/rt-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
